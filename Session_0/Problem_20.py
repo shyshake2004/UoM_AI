@@ -2,4 +2,4 @@ import math
 
 n = math.factorial(100)
 digit_sum = sum(int(d) for d in str(n))
-print(digit_sum)  # prints the answer
+print(digit_sum)  
